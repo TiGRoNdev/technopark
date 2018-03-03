@@ -1,0 +1,4 @@
+/home/tigron/Загрузки/clion-2017.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tigron/projects/education/technopark/sem1/HOMEWORKS/id_task
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tigron/projects/education/technopark/sem1/HOMEWORKS/id_task/cmake-build-debug

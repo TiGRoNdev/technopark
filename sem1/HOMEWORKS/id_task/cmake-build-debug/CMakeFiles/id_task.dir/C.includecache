@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tigron/projects/education/technopark/sem1/HOMEWORKS/id_task/arr.c
+stdlib.h
+-
+stdio.h
+-
+arr.h
+/home/tigron/projects/education/technopark/sem1/HOMEWORKS/id_task/arr.h
+
+/home/tigron/projects/education/technopark/sem1/HOMEWORKS/id_task/arr.h
+
+/home/tigron/projects/education/technopark/sem1/HOMEWORKS/id_task/main.c
+stdio.h
+-
+stdlib.h
+-
+arr.h
+/home/tigron/projects/education/technopark/sem1/HOMEWORKS/id_task/arr.h
+
