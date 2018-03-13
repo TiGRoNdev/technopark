@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/id_task2.dir/main.c.o CMakeFiles/id_task2.dir/test.c.o  -o id_task2 
